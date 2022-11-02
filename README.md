@@ -1,6 +1,6 @@
 # How to bind range collection to scale in Xamarin.Form SfCircularGauge
 
-This repository contains sample for how to bind range collection to scale in the [Syncfusion Xamarin.Forms Circular Gauge](https://help.syncfusion.com/xamarin/circular-gauge/getting-started) control.
+This repository contains sample to bind range collection to scale in the [Syncfusion Xamarin.Forms Circular Gauge](https://help.syncfusion.com/xamarin/circular-gauge/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/10506/how-to-bind-range-collection-to-scale-in-xamarin-forms-sfcirculargauge).
 
